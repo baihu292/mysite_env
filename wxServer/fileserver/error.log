@@ -1,0 +1,116 @@
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+WARNING:django.request:Not Found: /uploadFile/receive/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+WARNING:django.request:Not Found: /uploadFile/wxServer/receive/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view fileserver.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view fileserver.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\settings.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.7zHITwmMrNni8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /download/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpgsy.png
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Sb65TlKGXamg8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Q8UAg1mTgwE58ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HIK82GDXG5Nd8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
